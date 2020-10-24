@@ -10,6 +10,10 @@
 <body>
     <h1>Belajar Git</h1>
     <p>Saya Pasti Jadi Orang Sukses</p>
+    <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, quidem?</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, quidem?</li>
+    </ul>
 </body>
 
 </html>
